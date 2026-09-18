@@ -129,6 +129,13 @@ export const siteData = {
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/ddddd.jpg',
       },
+{
+        name: 'ስንታየሁ',
+        nickname:'ሴት ያስፈልገኛል እኮ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/snte.jfif',
+      },
+
     ],
   },
   // ---- The Regulars ----

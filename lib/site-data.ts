@@ -118,6 +118,17 @@ export const siteData = {
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abiy.jpg',
       },
+      {
+        name: 'ናሆም',
+        nickname:'ዝምተኛው ተጫዋች',
+        photo:'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/nah.jpg',
+      },
+      {
+        name: 'ዳዊት ሀይልዬ',
+        nickname:'እያንዳንዱን ጨዋታ በቁም ነገር የሚወስደው ሰው።',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/ddddd.jpg',
+      },
     ],
   },
   // ---- The Regulars ----
@@ -137,23 +148,25 @@ export const siteData = {
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abel.jpg',
         line: 'የመጨረሻ ጨዋታዬ ነው ብሎ 20 ቴብል ይጫወታል።',
       },
-      {
-        name: 'ዳዊት ሀይልዬ',
-        photo:
-          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/dev.jpg',
-        line: 'እያንዳንዱን ጨዋታ በቁም ነገር የሚወስደው ሰው።',
-      },
-      {
-        name: 'ናሆም',
-        photo:
-          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/nah.jpg',
-        line: 'ዝምተኛው ተጫዋች።',
-      },
+      
+      
       {
         name: 'ዮናስ',
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/yon.jpg',
-        line: 'እሱ ከሁሉም የተሻለ ነኝ ይላል። እኛም እንዲያምን እንተወዋለን።',
+        line: 'እሱ ከሁሉም የተሻልኩ ነኝ ይላል። እኛም ሲሰለቸን ትተነዋል',
+      },
+      {
+        name: 'ታምር',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/tam.jpg',
+        line: 'ጨዋው ተጫዋች',
+      },
+      {
+        name: 'ይርጉ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/yir.jpg',
+        line: 'የቁማር ንጉስ እና የብዙ ሰው ብር እዳ ባለቤት',
       },
     ],
   },

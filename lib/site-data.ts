@@ -114,7 +114,7 @@ export const siteData = {
       },
       {
         name: 'አብዮት',
-        nickname: 'መደበኛው ተጫዋች',
+        nickname: 'ከ 5 ቴብል አንድ አታሸንፈኝም',
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abiy.jpg',
       },

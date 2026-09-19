@@ -342,7 +342,7 @@ export const siteData = {
     subheading: 'ጓደኛዎን ይዘው ይምጡ። የማይረሳ ትውስታ ይፍጠሩ።',
     buttonText: 'እኛን ያግኙ',
     backgroundImage:
-      'https://images.pexels.com/photos/6032656/pexels-photo-6032656.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080',
+      'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/7.jpg',
   },
 
   // ---- Navigation ----

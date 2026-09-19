@@ -135,6 +135,13 @@ export const siteData = {
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/snte.jfif',
       },
+{
+        name: 'ሐብታሙ',
+        nickname:'አሁን የለችም',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/h.ጅፕግ',
+      },
+
 
     ],
   },

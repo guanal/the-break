@@ -7,7 +7,7 @@
 
 export const siteData = {
   // ---- General ----
-  name: 'ዘ ብሬክ',
+  name: 'ዴቭ ፑል ቤት',
 
   shortTagline: 'እያንዳንዱ ጨዋታ ታሪክ አለው።',
 

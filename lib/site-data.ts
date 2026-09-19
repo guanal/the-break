@@ -183,7 +183,7 @@ export const siteData = {
         line: 'የቁማር ንጉስ እና የብዙ ሰው ብር እዳ ባለቤት',
       },
 {
-        name: 'ቋሚ ደምበኛ',
+        name: 'አጣና',
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/8.jpg',
         line: 'አንድ ጨዋታ ስትሸነፍ ያማታል',
@@ -195,7 +195,7 @@ export const siteData = {
         line: 'ዳታ የጠረረበት፣ዋይፋይ ብርቁ',
       },
 {
-        name: 'ኖርማል ሰው',
+        name: 'አፏ',
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/9.jpg',
         line: 'ይቺ ኖርማል ሰው ነች',
@@ -207,6 +207,25 @@ export const siteData = {
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/10.jpg',
         line: 'እማዬ እየመጣሁ ነው',
       },
+{
+        name: 'በለጠ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abel.jg',
+        line: 'ጉራ ብቻ',
+      },
+{
+        name: 'ሰለሞን',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abel.jg',
+        line: 'ግቡ ግቡ አረቄ',
+      },
+{
+        name: 'የሰለሞን ጓደኛ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/abel.jg',
+        line: 'እንደጓደኛው',
+      },
+
 
     ],
   },

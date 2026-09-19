@@ -102,7 +102,7 @@ export const siteData = {
       },
       {
         name: 'ዳዊት ሳሙኤል',
-        nickname: 'ቁማርተኛ',
+        nickname: 'ገልባጭ',
         photo:
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/bebi.jpg',
       },
@@ -175,6 +175,32 @@ export const siteData = {
           'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/yir.jpg',
         line: 'የቁማር ንጉስ እና የብዙ ሰው ብር እዳ ባለቤት',
       },
+{
+        name: 'ቋሚ ደምበኛ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/8.jpg',
+        line: 'አንድ ጨዋታ ስትሸነፍ ያማታል',
+      },
+{
+        name: 'ዋይፋይ',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/1.jpg',
+        line: 'ዳታ የጠረረበት፣ዋይፋይ ብርቁ',
+      },
+{
+        name: 'ኖርማል ሰው',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/9.jpg',
+        line: 'ይቺ ኖርማል ሰው ነች',
+      },
+
+{
+        name: 'ቲቸር',
+        photo:
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/10.jpg',
+        line: 'እማዬ እየመጣሁ ነው',
+      },
+
     ],
   },
 
@@ -206,17 +232,17 @@ export const siteData = {
     heading: 'የቤቱ ውስጣዊ እይታ',
     images: [
       {
-        src: 'https://images.pexels.com/photos/31512997/pexels-photo-31512997.png?auto=compress&cs=tinysrgb&w=900&h=700',
-        alt: 'በለስላሳ ብርሃን ስር ያለ የቢሊያርድ ጠረጴዛ',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/6.jpg',
+        alt: 'በለስላሳ ብርሃን ስር ያለ ጠረጴዛ',
         category: 'ጠረጴዛዎቹ',
       },
       {
-        src: 'https://images.pexels.com/photos/12730846/pexels-photo-12730846.jpeg?auto=compress&cs=tinysrgb&w=900&h=1200',
-        alt: 'ተጫዋች ወደ ቢሊያርድ ጠረጴዛ ላይ እያነጣጠረ',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/2.jpg',
+        alt: 'ተጫዋች ወደ ጠረጴዛ ላይ እያነጣጠረ',
         category: 'ተጫዋቾቹ',
       },
       {
-        src: 'https://images.pexels.com/photos/10627105/pexels-photo-10627105.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/9.jpg',
         alt: 'ሁለት ጓደኛሞች በጨዋታ ሲዝናኑ',
         category: 'ተጫዋቾቹ',
       },
@@ -226,46 +252,26 @@ export const siteData = {
         category: 'የማይረሱ ምሽቶች',
       },
       {
-        src: 'https://images.pexels.com/photos/5055424/pexels-photo-5055424.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/7.jpg',
         alt: 'በአረንጓዴ ሜዳ ላይ ያሉ የቢሊያርድ ኳሶች',
         category: 'ጠረጴዛዎቹ',
       },
       {
-        src: 'https://images.pexels.com/photos/5044200/pexels-photo-5044200.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
-        alt: 'ሦስት ወንዶች ቢሊያርድ እየተጫወቱ',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/3.jpg',
+        alt: 'ወንዶች ቢሊያርድ እየተጫወቱ',
         category: 'የቤቱ ድባብ',
       },
       {
-        src: 'https://images.pexels.com/photos/10178591/pexels-photo-10178591.jpeg?auto=compress&cs=tinysrgb&w=900&h=1200',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/5.jpg',
         alt: 'ተጫዋች በኒዮን ብርሃን ስር ቆሞ',
         category: 'የቤቱ ድባብ',
       },
       {
-        src: 'https://images.pexels.com/photos/13036112/pexels-photo-13036112.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
+        src: 'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/5.jpg',
         alt: 'የቢሊያርድ ዱላ ኳሶችን ሲመታ',
         category: 'ጠረጴዛዎቹ',
       },
-      {
-        src: 'https://images.pexels.com/photos/6503756/pexels-photo-6503756.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
-        alt: 'በዝቅተኛ ብርሃን የሚካሄድ የቢሊያርድ ጨዋታ',
-        category: 'የማይረሱ ምሽቶች',
-      },
-      {
-        src: 'https://images.pexels.com/photos/6032554/pexels-photo-6032554.jpeg?auto=compress&cs=tinysrgb&w=900&h=1200',
-        alt: 'የቢሊያርድ አዳራሽ ውስጣዊ እይታ',
-        category: 'የቤቱ ድባብ',
-      },
-      {
-        src: 'https://images.pexels.com/photos/6253923/pexels-photo-6253923.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
-        alt: 'ሁለት ተጫዋቾች በጨዋታ ላይ በትኩረት ሲሳተፉ',
-        category: 'ተጫዋቾቹ',
-      },
-      {
-        src: 'https://images.pexels.com/photos/13179865/pexels-photo-13179865.jpeg?auto=compress&cs=tinysrgb&w=900&h=600',
-        alt: 'የቢሊያርድ ኳስ ቅርብ ምስል',
-        category: 'ጠረጴዛዎቹ',
-      },
-    ],
+          ],
   },
 
   // ---- House Rules ----

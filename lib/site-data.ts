@@ -139,7 +139,7 @@ export const siteData = {
         name: 'ሐብታሙ',
         nickname:'አሁን የለችም',
         photo:
-          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/h.ጅፕግ',
+          'https://hnoalsmiebkvdlqkmcsq.supabase.co/storage/v1/object/public/images/h.jpg',
       },
 
 
